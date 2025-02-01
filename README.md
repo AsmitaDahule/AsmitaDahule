@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmitadahule&label=Profile%20views&color=0e75b6&style=flat" alt="asmitadahule" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Html,Css**
+- 💬 Ask me about **frontend**
 
 - 📫 How to reach me **dahuleasmita@gmail.com**
 
